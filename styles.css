@@ -1,0 +1,13 @@
+.container{margin-left: 90px;height: auto;width: 75%;
+border:2px black solid ;border-radius: 24px;
+display:flex;flex-direction: column;justify-content: center;align-items: flex-start;padding: 36px;}
+img{height:35%;width:35%;}
+.caption{display: flex;}
+li{list-style: none;font-size: 18px;border: 3px yellow;border-radius: 12px;background-color:rgb(red, green, blue);
+margin: 10px;padding: 2px;}
+li:nth-child(2){
+margin-left: 45px;
+}    
+p{font-size:18px;font-family: 'Courier New', Courier, monospace;margin-top: 36px;}    
+.change{width: 100%;display: flex;justify-content: center;}  
+.btn{background-color: rgba(red, green, blue, alpha);border-radius: 18px;}

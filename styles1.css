@@ -1,0 +1,12 @@
+.container{background-color: pink;height:560px;width:700px}
+.header,.footer{background-color:rgb(135, 237, 196);text-align: center;padding: 1;color: white;height: 50px;}
+.aside{background-color: rgb(105, 209, 191);color: white;height: 23rem;width: 15rem;display: flex;justify-content: center;
+align-items: center;}
+.content{display: flex;flex-direction: row;justify-content: space-evenly;}
+.article{background-color:rgb(222, 93, 93);width: 26rem;height: 23rem;display: flex;flex-direction:column;
+justify-content: center;}
+.image{background-color: rgb(197, 191, 191);width: 100px;height: 100px;color: white;display: flex;justify-content: center;
+align-items: center;}
+.textbox{display: flex;justify-content: center;align-items: end;}
+.text{display: flex;color: white;}
+.img{display: flex;flex-direction: row;align-items: center;height:100px;width:700px}
